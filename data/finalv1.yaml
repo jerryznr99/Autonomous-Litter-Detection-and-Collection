@@ -1,0 +1,5 @@
+train:  ./data/Final-V1/train/images
+val:  ./data/Final-V1/valid/images
+
+nc: 3
+names: ['Aluminum Can', 'Litter', 'Wrapper']

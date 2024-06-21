@@ -1,0 +1,5 @@
+train: ./data/Bottles-Annotated/train/images
+val: ./data/Bottles-Annotated/valid/images
+
+nc: 1
+names: ['Litter']

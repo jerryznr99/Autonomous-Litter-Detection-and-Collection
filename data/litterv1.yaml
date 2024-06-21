@@ -1,0 +1,5 @@
+train: ./data/Litter-Annotated-V1/train/images
+val: ./data/Litter-Annotated-V1/valid/images
+
+nc: 3
+names: ['Bottle', 'Plastic Bag', 'Wrapper']
